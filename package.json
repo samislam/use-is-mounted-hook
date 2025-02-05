@@ -1,6 +1,7 @@
 {
   "name": "use-is-mounted-hook",
   "main": "./dist/index.js",
+  "version": "1.0.1",
   "type": "commonjs",
   "types": "./dist/declarations/index.d.ts",
   "description": "a simple package that includes two hooks `useIsMountedRef` and `useIsMountedState` to detect if the component has been mounted on the DOM or not.",
